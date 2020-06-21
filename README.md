@@ -1,1 +1,1 @@
-![alt text](https://github.com/GeorgeNicola/Images/blob/master/Snake_App.gif?raw=true)
+![alt text](https://drive.google.com/file/d/1fok-jJvN0ZMfPOkbd7MSTMHZGMuf8K9w/view?usp=sharing)
