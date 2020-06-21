@@ -1,1 +1,1 @@
-![alt text](https://github.com/GeorgeNicola/Snake/blob/master/favicon.ico?raw=true)
+![alt text](https://github.com/GeorgeNicola/Snake/blob/master/Snake.png?raw=true)
