@@ -1,0 +1,9 @@
+.score-board{
+    width:100%;
+    display:flex;
+    margin-bottom: 10px;;
+}
+
+.score-board > p {
+    margin:auto;
+}

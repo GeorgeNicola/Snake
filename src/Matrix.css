@@ -1,0 +1,11 @@
+.matrix{
+    width:100%;
+    height:100%;
+
+    display:grid;
+    grid-template-columns: repeat(17, 1fr);
+    grid-template-rows: repeat(17, 1fr);
+    grid-gap:0;
+
+    border: 2.5px solid white;
+}
