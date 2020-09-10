@@ -1,3 +1,4 @@
+import 'core-js/stable'; //IE compatibility
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
